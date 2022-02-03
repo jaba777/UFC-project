@@ -20,6 +20,7 @@
     background: black;
     width: 50%;
     height: 100vh;
+    position: relative;
 }
 
 .register .container {
