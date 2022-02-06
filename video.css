@@ -55,12 +55,12 @@ header ul li a:hover{
 }
 
 .videos{
-    margin-top: 12rem;
-    margin-left: 6rem;
     display: grid;
     grid-template-columns: repeat(3, 24px);
     grid-template-rows: repeat(3, auto);
     grid-gap: 1px 23rem;
+    max-width: 80rem;
+    margin: 4rem auto;
 }
 
 .videos .box{
